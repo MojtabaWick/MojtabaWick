@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mojtaba
 
 🎯 **Back-end .NET Developer (in progress)**  
-💻 Learning **C# .NET**, **ASP.NET Core**, **Entity Framework Core**  
+💻 Learning **C# .NET**, **ASP.NET Core**, **Entity Framework Core**  , **Dapper**  
 🎬 Also a **Video Editor** with creative project experience  
 🚀 Passionate about building clean, scalable, and modern back-end systems  
 
@@ -9,8 +9,9 @@
 
 ## 🔧 Technologies & Tools
 - C# / .NET  
-- ASP.NET Core (MVC, Web API)  
-- Entity Framework Core  
+- ASP.NET Core (MVC, Razor Pages, Web API)  
+- Entity Framework Core
+- Dapper
 - SQL Server  
 - Git & GitHub  
 - HTML / CSS / Bootstrap  
@@ -19,7 +20,7 @@
 ---
 
 ## 📚 Currently Learning
-- Clean Architecture  
+- Clean Architecture
 - Design Patterns  
 - Advanced ASP.NET Core  
 - Networking & Operating Systems (University courses)
